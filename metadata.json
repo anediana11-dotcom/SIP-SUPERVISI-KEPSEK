@@ -1,0 +1,6 @@
+{
+  "name": "SIP-SUPERVISI SMPN 8 Batang Hari",
+  "description": "Sistem Informasi Pengelolaan Supervisi Akademik dan Manajerial Kepala Sekolah SMP Negeri 8 Batang Hari",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
